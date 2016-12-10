@@ -19,6 +19,9 @@ export default class NavBar extends Component {
               <LinkContainer to="/pong/">
                 <MenuItem eventKey={2.2}>Pong</MenuItem>
               </LinkContainer>
+              <LinkContainer to="/currency-converter/">
+                <MenuItem eventKey={2.3}>Currency Converter</MenuItem>
+              </LinkContainer>
             </NavDropdown>
             <LinkContainer to="/about/">
               <NavItem eventKey={3}>About</NavItem>

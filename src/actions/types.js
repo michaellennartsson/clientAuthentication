@@ -1,0 +1,1 @@
+export const FETCH_CURRENCY = 'fetch_currency';

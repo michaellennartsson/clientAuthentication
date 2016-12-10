@@ -1,7 +1,8 @@
 import { combineReducers } from 'redux';
+import currencyReducer from './currency_converter';
 
 const rootReducer = combineReducers({
-  state: (state = {}) => state
+  currency: currencyReducer
 });
 
 export default rootReducer;
