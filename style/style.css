@@ -6,3 +6,7 @@
 #pong-canvas {
     background-color: black; 
 }
+
+.sign-in-link {
+    padding-right: 30px
+}

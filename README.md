@@ -1,0 +1,1 @@
+Server side authentication, can be used with serverAthentication repo
